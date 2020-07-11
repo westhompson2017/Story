@@ -1,2 +1,2 @@
 It was the best of times, it was the worst of times.
-I created this using the VIM editor!
+I created this using the VIM editori! This is a fun tool to use.
